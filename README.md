@@ -21,7 +21,3 @@ The automation project consists of several workflows that work together to strea
 ### 4. Automated Cookie Clicking
 - **Purpose**: Automates the clicking of cookies to maximize production.
 - **How It Works**: Continuously clicks on the cookie button in the game, allowing for faster accumulation of cookies without manual effort.
-
-## Conclusion
-
-These workflows work together to automate repetitive tasks in Cookie Clicker, making it easier for players to manage their progress and receive updates without constant manual input.
